@@ -1,7 +1,7 @@
-nombre = "Daniel"
+nombre = "soy"
 
-apellido = "Prades"
+apellido = "Dani"
 
-saludo = "Hola" + nombre + " " + apellido
+saludo = "Hola " + nombre + " " + apellido
 
 print(saludo)
